@@ -1,10 +1,11 @@
-a = 1
-b = 2
+def calculate():
+    a = 1
+    b = 2
+    c= a + b
 
-c= a + b
-
-if c == 3:
-    print("Hello World!")
+    if c == 3:
+        print("Hello World!")
     else:
-    print("Sie müssen rechnen lernen")
+        print("Sie müssen rechnen lernen")
     
+calculate()
