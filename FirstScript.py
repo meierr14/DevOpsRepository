@@ -5,3 +5,6 @@ c= a + b
 
 if c == 3:
     print("Hello World!")
+    else:
+    print("Sie müssen rechnen lernen")
+    
