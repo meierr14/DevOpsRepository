@@ -8,6 +8,6 @@ A Repository to get to know GitHub, Git and VSCode
 
 
 
-# Das ist der Change von peteral2
+# Das war der Change von peteral2
 
 # Halli hallo
