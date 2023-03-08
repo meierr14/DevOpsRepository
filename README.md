@@ -8,6 +8,6 @@ A Repository to get to know GitHub, Git and VSCode
 
 
 
-# Das ist der Change von peteral2 in Zusammenarbeit mit meierr14
+# Das ist der Change von peteral2 in Zusammenarbeit mit meierr14 für das Modul DevOps
 
 # Halli hallo
