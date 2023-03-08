@@ -1,3 +1,5 @@
+
+# This class will add a and b and check if c equals 3
 def calculate():
     a = 1
     b = 2
