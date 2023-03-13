@@ -11,3 +11,4 @@ def calculate():
         print("Sie müssen rechnen lernen")
     
 calculate()
+#bitte erklären was das Calculate bedeutet :()
