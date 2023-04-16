@@ -9,6 +9,10 @@ def calculate():
         print("Hello World!")
     else:
         print("Sie müssen rechnen lernen")
-    
+
+    if a < 0:
+        print("Die Zahl ist kleiner als 0")
+
 calculate()
 #bitte erklären was das Calculate bedeutet :()
+
